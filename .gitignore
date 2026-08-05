@@ -1,5 +1,5 @@
 .vscode
 .DS_Store
 .venv
-.firebaserc
-.firebase
+.firebase*
+.firebase/hosting..cache
