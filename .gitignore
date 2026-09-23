@@ -2,6 +2,6 @@
 .DS_Store
 .venv
 .firebase*
-.firebase/hosting..cache
-.firebase/hosting..cache
+.firebase/*
+*/hosting..cache*
 CLAUDE.md
